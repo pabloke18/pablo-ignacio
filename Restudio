@@ -11,3 +11,10 @@ dat
 
 ggplot(data=dat, aes(x=time, y=total_bill)) +
   geom_bar(stat="identity")
+A<-23
+  A<-3
+  A
+  b<-6
+B<-1  
+A<B
+A>B
